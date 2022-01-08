@@ -2,7 +2,7 @@ function Bedroom(){
     window.location="bedroom.html";
 }
 function TV_AC(){
-    window.location="TVAC.html";
+    window.location="TV_AC.html";
 }
 function desk(){
     window.location="desk.html";
